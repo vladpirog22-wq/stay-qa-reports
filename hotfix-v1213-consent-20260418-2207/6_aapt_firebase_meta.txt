@@ -1,0 +1,15 @@
+      E: meta-data (line=67)
+        A: android:name(0x01010003)="firebase_analytics_collection_enabled" (Raw: "firebase_analytics_collection_enabled")
+--
+      E: meta-data (line=70)
+        A: android:name(0x01010003)="firebase_crashlytics_collection_enabled" (Raw: "firebase_crashlytics_collection_enabled")
+--
+      E: meta-data (line=73)
+        A: android:name(0x01010003)="google_analytics_adid_collection_enabled" (Raw: "google_analytics_adid_collection_enabled")
+--
+      E: meta-data (line=76)
+        A: android:name(0x01010003)="google_analytics_ssaid_collection_enabled" (Raw: "google_analytics_ssaid_collection_enabled")
+        A: android:value(0x01010024)=(type 0x12)0x0
+        A: android:value(0x01010024)=(type 0x12)0x0
+        A: android:value(0x01010024)=(type 0x12)0x0
+        A: android:value(0x01010024)=(type 0x12)0x0
