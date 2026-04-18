@@ -135,9 +135,13 @@ $ grep -rn "HttpLoggingInterceptor.Level.BODY" app/src/main/java
 
 ## Artefacts
 ```
-s2_2_results_with_stars.png         — 4★ hotel on Results list (10-2 proof)
-s2_2_results_scrolled.png           — 3★ hotel on Results list (10-2 proof)
-s2_3_filter_sheet_show_results.png  — CTA reads "Show results" (10-3 action)
+10_1_v1210_clear_works.png              — Clear dates flow verified on v1.2.10 ("Any week" after tap)
+s2_2_results_with_stars.png             — 4★ Mercure on Results list (10-2 proof)
+s2_2_results_scrolled.png               — 3★ ibis on Results list (10-2 proof)
+s2_3_filter_sheet_show_results.png      — filter CTA reads "Show results" (10-3 action)
+10_3_filter_applied.png                 — 5★+9+ applied → EmptyState (client-side collapse, server ignored)
+10_3_direct_categories_filter_ids.json  — raw RapidAPI body with categories_filter_ids=class::5 (34690 bytes, mixed classes in hotels)
+10_3_direct_hotel_class.json            — raw RapidAPI body with hotel_class=5 (34690 bytes, mixed classes too)
 ```
 
 ## Push note
