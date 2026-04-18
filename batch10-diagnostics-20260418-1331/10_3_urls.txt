@@ -1,0 +1,1 @@
+https://hotelfinder-api.vladpirog22.workers.dev/v1/searchHotels?dest_id=-1456928&search_type=CITY&arrival_date=2026-04-19&departure_date=2026-04-20&adults=2&room_qty=1&page_number=1&currency_code=EUR&languagecode=en-gb&categories_filter_ids=class%3A%3A5&review_score_filter_min=9.0

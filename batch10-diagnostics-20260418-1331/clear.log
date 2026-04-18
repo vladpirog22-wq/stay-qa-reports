@@ -1,0 +1,19 @@
+--------- beginning of main
+04-18 13:34:20.770  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=null state.checkOutDate=null formattedDates=null finalText='Any week'
+04-18 13:34:20.831  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=null state.checkOutDate=null formattedDates=null finalText='Any week'
+04-18 13:34:20.988  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=null state.checkOutDate=null formattedDates=null finalText='Any week'
+04-18 13:34:20.990  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=null state.checkOutDate=null formattedDates=null finalText='Any week'
+04-18 13:34:22.764  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=null state.checkOutDate=null formattedDates=null finalText='Any week'
+04-18 13:35:12.729  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=null state.checkOutDate=null formattedDates=null finalText='Any week'
+04-18 13:35:36.490  7787  7787 D ClearDebug: DatePickerSheet Save tapped: startDate=2026-04-22 endDate=2026-04-24 -> calling onSave
+04-18 13:35:36.491  7787  7787 D ClearDebug: HomeContainer onSave received: checkIn=2026-04-22 checkOut=2026-04-24
+04-18 13:35:36.491  7787  7787 D ClearDebug: VM.setDates called ci=2026-04-22 co=2026-04-24. BEFORE: state.ci=null state.co=null
+04-18 13:35:36.491  7787  7787 D ClearDebug: VM.setDates AFTER: state.ci=2026-04-22 state.co=2026-04-24 sheetOpen=false
+04-18 13:35:36.498  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=2026-04-22 state.checkOutDate=2026-04-24 formattedDates=22 Apr – 24 Apr (2 nights) finalText='22 Apr – 24 Apr (2 nights)'
+04-18 13:35:54.000  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=2026-04-22 state.checkOutDate=2026-04-24 formattedDates=22 Apr – 24 Apr (2 nights) finalText='22 Apr – 24 Apr (2 nights)'
+04-18 13:35:56.908  7787  7787 D ClearDebug: === DatePickerSheet Clear tapped === local.startDate=2026-04-22 local.endDate=2026-04-24
+04-18 13:35:56.908  7787  7787 D ClearDebug: DatePickerSheet calling parent onClear()
+04-18 13:35:56.908  7787  7787 D ClearDebug: HomeContainer onClear received -> vm.clearDates()
+04-18 13:35:56.908  7787  7787 D ClearDebug: VM.clearDates called. BEFORE: state.ci=2026-04-22 state.co=2026-04-24
+04-18 13:35:56.908  7787  7787 D ClearDebug: VM.clearDates AFTER: state.ci=null state.co=null sheetOpen=false
+04-18 13:35:56.915  7787  7787 D ClearDebug: SearchPill recompose: state.checkInDate=null state.checkOutDate=null formattedDates=null finalText='Any week'

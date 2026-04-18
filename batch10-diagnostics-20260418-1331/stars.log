@@ -1,0 +1,101 @@
+--------- beginning of main
+04-18 13:36:48.439  7787  7787 D StarsMapping: === hotel id=15915182 name='Cozy Paris Nest' ===
+04-18 13:36:48.440  7787  7787 D StarsMapping: p.accuratePropertyClass=0 p.propertyClass=0 p.reviewScore=9.0 p.reviewScoreWord=Superb
+04-18 13:36:48.440  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.440  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.440  7787  7787 D StarsMapping: RESULT Hotel(id=15915182, starClass=0, rating=9.0)
+04-18 13:36:48.441  7787  7787 D StarsMapping: === hotel id=50908 name='Bradford Elysées - Astotel' ===
+04-18 13:36:48.441  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=9.1 p.reviewScoreWord=Superb
+04-18 13:36:48.441  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.441  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.441  7787  7787 D StarsMapping: RESULT Hotel(id=50908, starClass=4, rating=9.1)
+04-18 13:36:48.441  7787  7787 D StarsMapping: === hotel id=219639 name='Moxy Paris Bastille' ===
+04-18 13:36:48.441  7787  7787 D StarsMapping: p.accuratePropertyClass=3 p.propertyClass=3 p.reviewScore=8.0 p.reviewScoreWord=Very good
+04-18 13:36:48.441  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.441  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.441  7787  7787 D StarsMapping: RESULT Hotel(id=219639, starClass=3, rating=8.0)
+04-18 13:36:48.441  7787  7787 D StarsMapping: === hotel id=7743856 name='Hôtel Botaniste' ===
+04-18 13:36:48.441  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=8.5 p.reviewScoreWord=Very good
+04-18 13:36:48.441  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.441  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.441  7787  7787 D StarsMapping: RESULT Hotel(id=7743856, starClass=4, rating=8.5)
+04-18 13:36:48.441  7787  7787 D StarsMapping: === hotel id=1331780 name='Hotel Meslay Republique' ===
+04-18 13:36:48.441  7787  7787 D StarsMapping: p.accuratePropertyClass=3 p.propertyClass=3 p.reviewScore=8.3 p.reviewScoreWord=Very good
+04-18 13:36:48.441  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.441  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.441  7787  7787 D StarsMapping: RESULT Hotel(id=1331780, starClass=3, rating=8.3)
+04-18 13:36:48.442  7787  7787 D StarsMapping: === hotel id=54642 name='Hilton Paris Opera' ===
+04-18 13:36:48.442  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=7.6 p.reviewScoreWord=Good
+04-18 13:36:48.442  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: RESULT Hotel(id=54642, starClass=4, rating=7.6)
+04-18 13:36:48.442  7787  7787 D StarsMapping: === hotel id=54498 name='Hotel Abbatial Saint Germain' ===
+04-18 13:36:48.442  7787  7787 D StarsMapping: p.accuratePropertyClass=3 p.propertyClass=3 p.reviewScore=8.7 p.reviewScoreWord=Fabulous
+04-18 13:36:48.442  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: RESULT Hotel(id=54498, starClass=3, rating=8.7)
+04-18 13:36:48.442  7787  7787 D StarsMapping: === hotel id=26730 name='Pullman Paris Tour Eiffel' ===
+04-18 13:36:48.442  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=8.2 p.reviewScoreWord=Very good
+04-18 13:36:48.442  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: RESULT Hotel(id=26730, starClass=4, rating=8.2)
+04-18 13:36:48.442  7787  7787 D StarsMapping: === hotel id=54050 name='Prince Albert Lyon Bercy' ===
+04-18 13:36:48.442  7787  7787 D StarsMapping: p.accuratePropertyClass=3 p.propertyClass=3 p.reviewScore=8.3 p.reviewScoreWord=Very good
+04-18 13:36:48.442  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: RESULT Hotel(id=54050, starClass=3, rating=8.3)
+04-18 13:36:48.442  7787  7787 D StarsMapping: === hotel id=1343768 name='Hotel Joke - Astotel' ===
+04-18 13:36:48.442  7787  7787 D StarsMapping: p.accuratePropertyClass=3 p.propertyClass=3 p.reviewScore=9.1 p.reviewScoreWord=Superb
+04-18 13:36:48.442  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: RESULT Hotel(id=1343768, starClass=3, rating=9.1)
+04-18 13:36:48.442  7787  7787 D StarsMapping: === hotel id=59015 name='Ibis Styles Paris Batignolles' ===
+04-18 13:36:48.442  7787  7787 D StarsMapping: p.accuratePropertyClass=3 p.propertyClass=3 p.reviewScore=8.3 p.reviewScoreWord=Very good
+04-18 13:36:48.442  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: RESULT Hotel(id=59015, starClass=3, rating=8.3)
+04-18 13:36:48.442  7787  7787 D StarsMapping: === hotel id=224399 name='Hyatt Regency Paris Etoile' ===
+04-18 13:36:48.442  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=8.3 p.reviewScoreWord=Very good
+04-18 13:36:48.442  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: RESULT Hotel(id=224399, starClass=4, rating=8.3)
+04-18 13:36:48.442  7787  7787 D StarsMapping: === hotel id=3643749 name='Courtyard by Marriott Paris Gare de Lyon' ===
+04-18 13:36:48.442  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=8.3 p.reviewScoreWord=Very good
+04-18 13:36:48.442  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.442  7787  7787 D StarsMapping: RESULT Hotel(id=3643749, starClass=4, rating=8.3)
+04-18 13:36:48.443  7787  7787 D StarsMapping: === hotel id=50834 name='Hotel Mademoiselle' ===
+04-18 13:36:48.443  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=8.1 p.reviewScoreWord=Very good
+04-18 13:36:48.443  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: RESULT Hotel(id=50834, starClass=4, rating=8.1)
+04-18 13:36:48.443  7787  7787 D StarsMapping: === hotel id=57218 name='Novotel Paris 14 Porte d'Orléans' ===
+04-18 13:36:48.443  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=8.2 p.reviewScoreWord=Very good
+04-18 13:36:48.443  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: RESULT Hotel(id=57218, starClass=4, rating=8.2)
+04-18 13:36:48.443  7787  7787 D StarsMapping: === hotel id=1073577 name='Hotel de Seze' ===
+04-18 13:36:48.443  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=8.8 p.reviewScoreWord=Fabulous
+04-18 13:36:48.443  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: RESULT Hotel(id=1073577, starClass=4, rating=8.8)
+04-18 13:36:48.443  7787  7787 D StarsMapping: === hotel id=229860 name='Hôtel Jacques de Molay - Fitness & Sauna' ===
+04-18 13:36:48.443  7787  7787 D StarsMapping: p.accuratePropertyClass=3 p.propertyClass=3 p.reviewScore=8.0 p.reviewScoreWord=Very good
+04-18 13:36:48.443  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: RESULT Hotel(id=229860, starClass=3, rating=8.0)
+04-18 13:36:48.443  7787  7787 D StarsMapping: === hotel id=9225954 name='Hilton Garden Inn Paris La Villette' ===
+04-18 13:36:48.443  7787  7787 D StarsMapping: p.accuratePropertyClass=4 p.propertyClass=4 p.reviewScore=8.5 p.reviewScoreWord=Very good
+04-18 13:36:48.443  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: RESULT Hotel(id=9225954, starClass=4, rating=8.5)
+04-18 13:36:48.443  7787  7787 D StarsMapping: === hotel id=8313580 name='The People - Paris Marais' ===
+04-18 13:36:48.443  7787  7787 D StarsMapping: p.accuratePropertyClass=0 p.propertyClass=0 p.reviewScore=8.2 p.reviewScoreWord=Very good
+04-18 13:36:48.443  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: RESULT Hotel(id=8313580, starClass=0, rating=8.2)
+04-18 13:36:48.443  7787  7787 D StarsMapping: === hotel id=228249 name='Hotel Monterosa - Astotel' ===
+04-18 13:36:48.443  7787  7787 D StarsMapping: p.accuratePropertyClass=3 p.propertyClass=3 p.reviewScore=8.6 p.reviewScoreWord=Fabulous
+04-18 13:36:48.443  7787  7787 D StarsMapping: HotelDto declared fields: accessibilityLabel, hotelId, property, $stable, Companion
+04-18 13:36:48.443  7787  7787 D StarsMapping: PropertyDto declared fields: accuratePropertyClass, checkinDate, checkoutDate, currency, id, latitude, longitude, name, photoUrls, priceBreakdown, propertyClass, reviewCount, reviewScore, reviewScoreWord, wishlistName, $childSerializers, $stable, Companion
+04-18 13:36:48.444  7787  7787 D StarsMapping: RESULT Hotel(id=228249, starClass=3, rating=8.6)
